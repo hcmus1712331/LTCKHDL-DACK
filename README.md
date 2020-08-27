@@ -27,7 +27,7 @@
 
  - Dữ liệu này là một phần của dự án Global Disease Burden 2017. Dữ liệu bao gồm số lượng người chết trong mỗi nước qua các năm cùng với các nguyên nhân được phân loại gồm: xung đột và khủng bố (conflict and terrorism), nạn đói (famine), đại dịch (pandemic), thảm họa tự nhiên (natural disaster) và các nguyên nhân khác (Other injuries).
 
- - Dữ liệu phục vụ cho đồ án lấy từ [kaggle](https://www.kaggle.com/tahminashoaib86/global-cause-of-the-deaths-other-than-diseases), dữ liệu được truy cập hoàn toàn miễn phí.
+ - Dữ liệu phục vụ cho đồ án lấy từ [kaggle](https://www.kaggle.com/tahminashoaib86/global-cause-of-the-deaths-other-than-diseases?flush_cache=true), dữ liệu được truy cập hoàn toàn miễn phí.
 
 ## Structure
 
