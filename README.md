@@ -59,4 +59,4 @@
 
 ## Note
 
-Trường hợp tập tin ipynb không render được trên github và người đọc báo cáo không muốn tải tập tin về thì có thể sử dụng [link](https://nbviewer.jupyter.org/github/hcmus1712331/LTCKHDL-DACK/blob/master/1712331-NguyenThanhDat.ipynb) này để xem trực tiếp trên trình duyệt.
+Trường hợp tập tin ipynb không render được trên github và người đọc báo cáo không muốn tải tập tin về thì có thể sử dụng [link](https://nbviewer.jupyter.org/github/hcmus1712331/LTCKHDL-DACK/blob/master/1712331-NguyenThanhDat.ipynb?flush_cache=true) này để xem trực tiếp trên trình duyệt.
